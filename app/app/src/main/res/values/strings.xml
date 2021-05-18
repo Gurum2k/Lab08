@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="buttonWydaj">WYDAJ</string>
+    <string name="buttonSkladuj">SKŁADUJ</string>
+    <string name="bladOdczytuHistorii">Nastąpił błąd w odczycie historii z bazy</string>
+    <string name="bladZaMaloDoWydaniaProduktu">Błąd! Za mało produktu do wydania! Przerywam operacje</string>
+</resources>
